@@ -1,3 +1,27 @@
-- New Loading Screen added
-- Added ERPT Ford Focus Active
-- Added ERPT Unmarked Ford Focus Active
+Changelog 1.1.0
+
+New Additions:
+- New consumables (discard current ALL(food and drink) consumables on the ground somewhere for the storm to wash away)
+- New drunk effects (Casino bar will get you visibly drunk now)
+
+Removals:
+- Removed Luna Park rides as it was very heavy on resources when in use and its not a huge need
+- Removed old consumable method
+- Removed traffic islands to save on perf
+- Removed Bus job since it is not very appealing and we have a lot more to offer
+
+Improvements & Updates:
+- The phone had a version update
+
+Bug Fixes:
+- You were not able to combine meta data items in stashes (drugstuff)
+
+Balance Changes:
+- Raised prices on non player ran food places to encourage the RP as well as balance out how much they can charge
+
+Whats in the Pipeline?
+- Making a guide for Parkour
+- Adding more lore friendly vehicles
+- Adding more lore friendly clothing
+- Migrating and creating consumables to new system
+- Vehicle tuning
